@@ -1,0 +1,5 @@
+Credentials cache: API:52A0D579-82AF-410D-9F00-1769BC3DD645
+        Principal: jdoherty@42ADEL.ORG.AU
+
+  Issued                Expires               Principal
+Nov 22 10:57:31 2021  Nov 22 20:56:57 2021  krbtgt/42ADEL.ORG.AU@42ADEL.ORG.AU
